@@ -1,0 +1,22 @@
+.gameBtn {
+  width: 100%;
+  border-radius: 12px;
+  height: 36px;
+  font-size: 1.125rem;
+  box-shadow: 0 0 16px rgb(252, 175, 86);
+}
+.gameBtn:hover {
+  box-shadow: 0 0 24px rgb(252, 175, 86);
+}
+.gameBtn-fill {
+  box-shadow: 0 0 16px rgb(252, 175, 86);
+  background: rgb(252, 175, 86);
+  color: transparent;
+}
+.gameBtn-fill:hover {
+  box-shadow: 0 0 24px rgb(252, 175, 86);
+}
+.hamsterImg {
+  width: 450px;
+  height: 400px;
+}
